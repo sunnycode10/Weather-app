@@ -76,7 +76,7 @@ export default {
       lat:null,
       lon:null,
       apiUrl:'https://api.openweathermap.org/data/2.5/weather',
-      apiKey: '77483b4f9aa28e3e88f9f092f515ae8b'
+      apiKey: ''
     };
   },
   methods:{
